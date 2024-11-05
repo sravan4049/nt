@@ -1,0 +1,1 @@
+{"zone": "bronze", "sources": {"npf": {"entities": {"dtrust_positions": {"enabled": true, "file_type": "csv", "raw_ingestion_config": {"column_separator": "|", "header": false, "ordered_header_list": ["ColumnName1", "ColumnName2", "ColumnName3"]}}}}}}
